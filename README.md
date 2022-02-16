@@ -18,7 +18,6 @@ This project is created with:
 * Javascript
 * Bootstrap
 * Jquery
-* wow.js
 * Popper.js
 * mixitup.js
 
