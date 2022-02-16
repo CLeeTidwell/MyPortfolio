@@ -1,4 +1,4 @@
-# Updated Portfolio
+# Updated Portfolio 2/2022
 
 ## Christopher Lee Tidwell's Portfolio
 This is my personal portfolio built with the knowledge of what I have currently learned with CSS, HTML and Javascript through the course of the UW online coding bootcamp.
