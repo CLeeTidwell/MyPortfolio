@@ -23,5 +23,5 @@ This project is created with:
 
 
 ## Setup
-To run this project, please visit the url https://cleetidwell.github.io/UpdatedPortfolio/
+To run this project, please visit the url https://cleetidwell.github.io/MyPortfolio/
 
